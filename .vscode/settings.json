@@ -1,0 +1,16 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "lib/json-20250517.jar"
+    ]
+
+    // Code Runner settings: run whole file in integrated terminal, ignore selection,
+    // and save current file before run to avoid creating temporary 'tempCodeRunnerFile'.
+    ,"code-runner.ignoreSelection": true,
+    "code-runner.runInTerminal": true,
+    "code-runner.saveFileBeforeRun": true
+}
